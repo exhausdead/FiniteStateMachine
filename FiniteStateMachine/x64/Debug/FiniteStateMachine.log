@@ -1,0 +1,6 @@
+﻿  cs232P1Driver.cpp
+  cs232P1Imp.cpp
+C:\Users\jerem\OneDrive\FiniteStateMachine\FiniteStateMachine\cs232P1Imp.cpp(136,11): warning C4101: 'e1': unreferenced local variable
+  Generating Code...
+C:\Users\jerem\OneDrive\FiniteStateMachine\FiniteStateMachine\cs232P1Imp.cpp(67,1): warning C4715: 'convertSTATE': not all control paths return a value
+  FiniteStateMachine.vcxproj -> C:\Users\jerem\OneDrive\FiniteStateMachine\x64\Debug\FiniteStateMachine.exe
